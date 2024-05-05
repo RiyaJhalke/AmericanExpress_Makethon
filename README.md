@@ -21,7 +21,6 @@ The Financial Literacy Platform is a robust solution aimed at improving financia
 - Data Visualization: D3.js, Chart.js
 - Mobile app Development: React
 
-## Contribution Guidelines
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your proposed changes.
+
 
 
